@@ -4,10 +4,9 @@ This is library management system for my summer project, I have used the
 Front End:  
 ● HTML 
 ● CSS 
-
-
-
 ● Java script 
+
+
 Back End:  
 ● MySQL 
 ● Php  
